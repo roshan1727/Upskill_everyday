@@ -22,6 +22,22 @@ Learning progress till now -> 1 Days(30/03/2021)
 - 📰 [Daily English News](https://qz.com/india/)
 </p></details>
 
+<details>
+<summary>Day 2 </summary>
+<p>
+
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Brilliant.org/d2b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/Day1-50/d2chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/Day1-50/d2chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/Day1-50/d2chs3.png)
+   - ✔️ [NewTechnology](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Newtechnology/d2gcd_m1.png)
+    - ✔️Today I started a new path to learn a new technonlgy.
+    - ✔️[enrol](https://www.qwiklabs.com/course_templates/153)
+
+</p></details>
+
+
 
 
 
