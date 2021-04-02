@@ -52,7 +52,20 @@ Learning progress till now -> 1 Days(30/03/2021)
 
 </p></details>
 
+<details>
+<summary>Day 4</summary>
+<p>
 
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Brilliant.org/d4b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d4chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d4chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d4chs3.png)
+    - ✔️In new Technology Start to learn about ModernApp Ninja
+    - ✔️I have solved Two Problems in skillrack.
+    - ✔️[endrolled](https://lms.modernapps.ninja/courses/course-v1:modernapps+COU-MN7417+Perpetual/course/)
+    - 👂🏻 [Watched a Youtube video "The Young Codemaster: Raising a Computer Prodigy | On The Red Dot | CNA Insider"](https://www.youtube.com/watch?v=3FvSLA-Kvvs&t=187s)
+</p></details>
 
 
 
