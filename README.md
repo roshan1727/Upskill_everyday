@@ -77,11 +77,25 @@ Learning progress till now -> 1 Days(30/03/2021)
   - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d5chs2.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d5chs3.png)
     - ✔️In new Technology Start to learn about ModernApp Ninja
+    - ✔️Setuped Slack to have a better Communication with Moderncodeninja by VMWARE.
     - ✔️I have solved Ten Problems in skillrack.
     - ✔️[endrolled](https://lms.modernapps.ninja/courses/course-v1:modernapps+COU-MN7417+Perpetual/course/)
     - 👂🏻 [Watched a Youtube video "How To Earn in your Early 20s? | Aman Dhattarwal | TEDxVIPS"](https://youtu.be/Y7qzo1WMcxs)
 </p></details>
 
+<details>
+<summary>Day 6</summary>
+<p>
+
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Brilliant.org/d6b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d6chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d6chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d6chs3.png)
+  - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d6chs4.png)
+    - ✔️I learn the basic of Adobe XD for UI design.
+    - 👂🏻 [Watched a Youtube video "Adobe XD for Beginners | FREE COURSE"](https://youtu.be/WEljsc2jorI)
+</p></details>
 
 
 
