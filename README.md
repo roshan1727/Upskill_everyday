@@ -97,6 +97,22 @@ Learning progress till now -> 1 Days(30/03/2021)
     - 👂🏻 [Watched a Youtube video "Adobe XD for Beginners | FREE COURSE"](https://youtu.be/WEljsc2jorI)
 </p></details>
 
+</p></details>
+
+<details>
+<summary>Day 7</summary>
+<p>
+
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Brilliant.org/d7b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d7chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d7chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d7chs3.png)
+  - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d7chs4.png)
+    - 👂🏻 [Watched a Youtube video "Why people believe they can’t draw - and how to prove they can | Graham Shaw | TEDxHull"](https://www.youtube.com/watch?v=7TXEZ4tP06c)
+    - 👂🏻 [Watched a Youtube video "This Is What Rejections & Failures Teach You About SUCCESS | Sahla Parveen | Josh Talks"](https://www.youtube.com/watch?v=7m_XpKA3GCg)
+
+</p></details>
 
 
 
