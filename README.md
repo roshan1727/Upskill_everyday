@@ -115,6 +115,20 @@ Learning progress till now -> 1 Days(30/03/2021)
 </p></details>
 
 
+<details>
+<summary>Day 8</summary>
+<p>
+
+- ✔️ [Solved Daily Challenge in Brilliant.org]()
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d8chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d8chs2.png)
+  - ✔️ [Solved Daily Puzzle]()
+    - 👂🏻 [Watched a Youtube video ""]()
+
+</p></details>
+
+
 
 
 </p></details>
