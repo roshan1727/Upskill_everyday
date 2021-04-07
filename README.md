@@ -97,7 +97,6 @@ Learning progress till now -> 1 Days(30/03/2021)
     - 👂🏻 [Watched a Youtube video "Adobe XD for Beginners | FREE COURSE"](https://youtu.be/WEljsc2jorI)
 </p></details>
 
-</p></details>
 
 <details>
 <summary>Day 7</summary>
@@ -123,11 +122,25 @@ Learning progress till now -> 1 Days(30/03/2021)
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d8chs1.png)
   - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d8chs2.png)
-  - ✔️ [Solved Daily Puzzle]()
-    - 👂🏻 [Watched a Youtube video ""]()
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d8chs3.png)
+    - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d8chs4.png)
+    - 👂🏻 [Watched a Youtube video "My journey to success | Aishwarya Rajesh | TEDxIIMTrichy"](https://www.youtube.com/watch?v=zls4a7I_qaM)
 
 </p></details>
 
+<details>
+<summary>Day 9</summary>
+<p>
+
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Brilliant.org/d9b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d9chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d9chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d9chs3.png)
+  - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d9chs4.png)
+    - 👂🏻 [Watched a Youtube video "Make Your Impossible Dreams Come True! | Ms. Nivedha RM | TEDxRTU"](https://www.youtube.com/watch?v=-JfQvYLveGA)
+
+</p></details>
 
 
 
