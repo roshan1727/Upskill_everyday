@@ -176,8 +176,8 @@ Learning progress till now -> 1 Days(30/03/2021)
   - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d11chs2.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d11chs3.png)
   - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d11chs4.png)
-   - ✔️Today I started to learn Python in Guvi.
-    - ✔️[endroll](https://www.guvi.in/courses-video?course=pythonEng)
+   - ✔️Today I started to learn Python in Guvi. [endroll](https://www.guvi.in/courses-video?course=pythonEng)
+
     - 👂🏻 [Watched a Youtube video "Broken English: Every Indian Kid's Ordeal | Esha Manwani | TEDxHLCC"](https://www.youtube.com/watch?v=XqqIzCPUcgs)
 
 </p></details>
