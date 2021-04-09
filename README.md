@@ -6,7 +6,7 @@ Learning progress till now -> 1 Days(30/03/2021)
 >" Yesterday is not ours to recover, but tomorrow is ours to win or lose. " Lyndon B. Johnson
 
 <details>
-<summary>->Mar 30, 2021 - Apr 08, 2021</summary>
+<summary>Day 1 -10 ->Mar 30, 2021 - Apr 08, 2021</summary>
 <p>
 
 <details>
@@ -152,8 +152,35 @@ Learning progress till now -> 1 Days(30/03/2021)
   - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d10chs2.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d10chs3.png)
   - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d10csh4.png)
-    - 👂🏻 [Watched a Youtube video ""]()
+    - 👂🏻 [Watched a Youtube video "What makes you special? | Mariana Atencio | TEDxUniversityofNevada"](https://www.youtube.com/watch?v=MY5SatbZMAo)
 
 </p></details>
+
+</p></details>
+
+>Every day brings new choices." Martha Beck
+
+
+<details>
+<summary>Day 11 -20 ->Apr 09, 2021 - Apr 20, 2021</summary>
+<p>
+
+
+<details>
+<summary>Day 11</summary>
+<p>
+
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Brilliant.org/d11b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d11chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d11chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d11chs3.png)
+  - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d11chs4.png)
+    - 👂🏻 [Watched a Youtube video "Broken English: Every Indian Kid's Ordeal | Esha Manwani | TEDxHLCC"](https://www.youtube.com/watch?v=XqqIzCPUcgs)
+
+</p></details>
+
+
+
 
 </p></details>
