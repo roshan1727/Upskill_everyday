@@ -182,7 +182,20 @@ Learning progress till now -> 1 Days(30/03/2021)
 
 </p></details>
 
+<details>
+<summary>Day 12</summary>
+<p>
 
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Brilliant.org/d12b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d12chs1.png)
+  - ✔️ [Played Puzzle Rush](C:\GitFiles\Upskill_everyday\images\Chess.com\d12chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d12chs3.png)
+  - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d12chs4.png)
+
+    - 👂🏻 [Watched a Youtube video "Why you should speak to strangers | Praveen Wadalkar | TEDxIESMCRC"](https://www.youtube.com/watch?v=g6HnOku6KUs)
+
+</p></details>
 
 
 </p></details>
