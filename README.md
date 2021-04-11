@@ -197,5 +197,20 @@ Learning progress till now -> 1 Days(30/03/2021)
 
 </p></details>
 
+<details>
+<summary>Day 13</summary>
+<p>
+
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Brilliant.org/d13b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d13chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d13chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d13chs3.png)
+  - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d13chs4.png)
+
+    - 👂🏻 [Watched a Youtube video "From Confusion to Conclusion | Swapna Patker | TEDxIIMRohtak"](https://www.youtube.com/watch?v=6LZ7QqoY_1w&t=4s)
+     - 👂🏻 [Watched a Youtube video "The Secret of Becoming Mentally Strong | Amy Morin | TEDxOcala"](https://www.youtube.com/watch?v=TFbv757kup4)
+
+</p></details>
 
 </p></details>
