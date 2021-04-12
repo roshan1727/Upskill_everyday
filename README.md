@@ -207,9 +207,27 @@ Learning progress till now -> 1 Days(30/03/2021)
   - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d13chs2.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d13chs3.png)
   - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d13chs4.png)
-
+  - ✔️I Solved 5 problems in Skillrack.
     - 👂🏻 [Watched a Youtube video "From Confusion to Conclusion | Swapna Patker | TEDxIIMRohtak"](https://www.youtube.com/watch?v=6LZ7QqoY_1w&t=4s)
      - 👂🏻 [Watched a Youtube video "The Secret of Becoming Mentally Strong | Amy Morin | TEDxOcala"](https://www.youtube.com/watch?v=TFbv757kup4)
+    - 👂🏻 [Watched a Youtube video "7 Ways to Make a Conversation With Anyone | Malavika Varadan | TEDxBITSPilaniDubai"](https://www.youtube.com/watch?v=F4Zu5ZZAG7I)
+
+</p></details>
+
+<details>
+<summary>Day 13</summary>
+<p>
+
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Brilliant.org/d14b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d14chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d14chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d14chs3.png)
+  - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d14chs4.png)
+ 
+    - 👂🏻 [Watched a Youtube video "Why you think you're right -- even if you're wrong | Julia Galef"](https://www.youtube.com/watch?v=w4RLfVxTGH4)
+     - 👂🏻 [Watched a Youtube video "Learning a language? Speak it like you’re playing a video game | Marianna Pascal | TEDxPenangRoad"](https://www.youtube.com/watch?v=Ge7c7otG2mk)
+    - 👂🏻 [Watched a Youtube video "Approach Yourself To Approach Infinity. | Ridhi Dogra | TEDxGGDSDCollege"](https://www.youtube.com/watch?v=SwX5ESqlkBM)
 
 </p></details>
 
