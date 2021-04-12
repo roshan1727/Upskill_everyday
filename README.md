@@ -215,7 +215,7 @@ Learning progress till now -> 1 Days(30/03/2021)
 </p></details>
 
 <details>
-<summary>Day 13</summary>
+<summary>Day 14</summary>
 <p>
 
 - ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Brilliant.org/d14b1.png)
