@@ -231,4 +231,20 @@ Learning progress till now -> 1 Days(30/03/2021)
 
 </p></details>
 
+<details>
+<summary>Day 15</summary>
+<p>
+
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Brilliant.org/d15b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d15chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d15chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d15chs3.png)
+  - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d15chs4.png)
+ 
+    - 👂🏻 [Watched a Youtube video "Befriend Yourself | Nivetha Thomas | TEDxOMCH"](https://www.youtube.com/watch?v=sB34sRehUvU)
+     - 👂🏻 [Watched a Youtube video "The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU"](https://www.youtube.com/watch?v=5MgBikgcWnY&t=989s)
+
+</p></details>
+
 </p></details>
