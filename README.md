@@ -246,5 +246,19 @@ Learning progress till now -> 1 Days(30/03/2021)
      - 👂🏻 [Watched a Youtube video "The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU"](https://www.youtube.com/watch?v=5MgBikgcWnY&t=989s)
 
 </p></details>
+<details>
+<summary>Day 16</summary>
+<p>
+
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Brilliant.org/d16b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d16chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d16chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d16chs3.png)
+  - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d16chs4.png)
+ 
+    - 👂🏻 [Watched a Youtube video "After watching this, your brain will not be the same | Lara Boyd | TEDxVancouver"](https://www.youtube.com/watch?v=LNHBMFCzznE)
+    - 👂🏻 [Watched a Youtube video "How To Start A Business In College With No Money? | Sunny Garg | Josh Talks"](https://www.youtube.com/watch?v=JlvQnlPbhMM&t=463s)
+</p></details>
 
 </p></details>
