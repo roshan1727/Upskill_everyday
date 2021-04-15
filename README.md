@@ -261,4 +261,24 @@ Learning progress till now -> 1 Days(30/03/2021)
     - 👂🏻 [Watched a Youtube video "How To Start A Business In College With No Money? | Sunny Garg | Josh Talks"](https://www.youtube.com/watch?v=JlvQnlPbhMM&t=463s)
 </p></details>
 
+<details>
+<summary>Day 17</summary>
+<p>
+
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Brilliant.org/d17b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d17chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d17chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d17chs3.png)
+  - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d17chs4.png)
+  - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_everyday/blob/main/images/lumosity/d1lty1.jpg)
+  - ✔️ [Completed Basic HTML and HTML5 in freecodecamp under  Responsive Web Design](https://www.freecodecamp.org/learn/responsive-web-design/)
+  - ✔️ install and setup the Julia in pc 
+  - ✔️ [Completed Beginer's module in Python](https://www.guvi.in/courses-video?course=pythonEng)
+    - 👂🏻 [Watched a Youtube video "The 7 Habits of Highly Effective People Summary"](https://www.youtube.com/watch?v=WFc08j9eorQ&t=687s)
+    - 👂🏻 [Watched a Youtube video "The 7 Habits of Highly Effective People Summary (part 2)"](https://www.youtube.com/watch?v=5LbCRx1UbWY)
+
+</p></details>
+
+
 </p></details>
