@@ -299,5 +299,20 @@ Learning progress till now -> 1 Days(30/03/2021)
     - 👂🏻 [Watched a Youtube video "'change the way you think’ | Dr Kruti Parekh | TEDxSIUVimanNagar"](https://www.youtube.com/watch?v=GjJX0iA7VBA&t=29s)
 
 </p></details>
+<details>
+<summary>Day 19</summary>
+<p>
+
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Brilliant.org/d19b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d19Chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d19Chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d19Chs3.png)
+  - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d19Chs4.png)
+    - 👂🏻 [Watched a Youtube video "Jeff Bezos: The electricity metaphor"](https://www.youtube.com/watch?v=vMKNUylmanQ)
+    - 👂🏻 [Watched a Youtube video "How To Multiply Your Time | Rory Vaden | TEDxDouglasville"](https://www.youtube.com/watch?v=y2X7c9TUQJ8)
+    - 👂🏻 [Watched a Youtube video "PYTHON AND DATA VISUALIZATION : Day -4 (Data Structures completion)"](https://www.youtube.com/watch?v=nBDK3YYbNq8)
+</p></details>
+
 
 </p></details>
