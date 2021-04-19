@@ -331,6 +331,7 @@ Learning progress till now -> 1 Days(30/03/2021)
     - 👂🏻 [Watched a Youtube video "PYTHON AND DATA VISUALIZATION : Day -5 (Data Visualisation )"](https://www.youtube.com/watch?v=msVkNbakpx8)
     
 </p></details>
+</p></details>
 
 >“It is never too late to be what you might have been.”
 ― George Eliot
@@ -354,5 +355,4 @@ Learning progress till now -> 1 Days(30/03/2021)
 
     - 👂🏻 [Watched a Youtube video "PYTHON AND DATA VISUALIZATION : Day -6 (Data Visualisation )"](https://www.youtube.com/watch?v=mCv4Pll3MYY)
 
-</p></details>
 </p></details>
