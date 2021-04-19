@@ -332,4 +332,27 @@ Learning progress till now -> 1 Days(30/03/2021)
     
 </p></details>
 
+>“It is never too late to be what you might have been.”
+― George Eliot
+
+<details>
+<summary>Day 21 -31 ->Apr 21, 2021 - Apr 31, 2021</summary>
+<p>
+
+
+<details>
+<summary>Day 21</summary>
+<p>
+
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Brilliant.org/d21b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d21chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d21chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d21chs3.png)
+  - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d21chs3.png)
+
+
+    - 👂🏻 [Watched a Youtube video "PYTHON AND DATA VISUALIZATION : Day -6 (Data Visualisation )"](https://www.youtube.com/watch?v=mCv4Pll3MYY)
+
+</p></details>
 </p></details>
