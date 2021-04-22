@@ -371,3 +371,22 @@ Learning progress till now -> 1 Days(30/03/2021)
      - 👂🏻 [Watched a Youtube video "PYTHON AND MACHINE LEARNING : Day -1 (Python intro )"](https://www.youtube.com/watch?v=c1q2OC0n-z8)
 </p></details>
 
+<details>
+<summary>Day 23</summary>
+<p>
+
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Brilliant.org/d23b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d23chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d23chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d23chs3.png)
+  - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d23chs4.png)
+  - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_everyday/blob/main/images/lumosity/d23lct1.jpg)
+    - 👂🏻 [Watched a Youtube video "HTML and CSS - Lecture 0 - CS50's Web Programming with Python and JavaScript 2020"](https://youtu.be/zFZrkCIc2Oc)
+     - 👂🏻 [Watched a Youtube video "A 12-year-old app developer | Thomas Suarez"](https://youtu.be/Fkd9TWUtFm0)
+</p></details>
+
+
+
+
+
