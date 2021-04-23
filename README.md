@@ -386,6 +386,22 @@ Learning progress till now -> 1 Days(30/03/2021)
      - 👂🏻 [Watched a Youtube video "A 12-year-old app developer | Thomas Suarez"](https://youtu.be/Fkd9TWUtFm0)
 </p></details>
 
+<details>
+<summary>Day 24</summary>
+<p>
+
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Brilliant.org/d24b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d24chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d24chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d24chs3.png)
+  - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d24chs4.png)
+  - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_everyday/blob/main/images/lumosity/d24lct1.jpg)
+    - 👂🏻 [Watched a Youtube video "Being Yourself | Jaahnavi Sriperambuduru | TEDxDSCEWomen"](https://www.youtube.com/watch?v=hdzd1ax7sqs)
+     - 👂🏻 [Watched a Youtube video "The Skill of Humor | Andrew Tarvin | TEDxTAMU"](https://www.youtube.com/watch?v=MdZAMSyn_As)
+     - 👂🏻 [Watched a Youtube video "How to talk about your family? - English Lesson"](https://www.youtube.com/watch?v=R49zGknt7EE&list=PL4BuO6UgthvhXljwiFJk-X5IRax4pFxki)
+</p></details>
+
 
 
 
