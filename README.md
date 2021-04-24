@@ -402,6 +402,20 @@ Learning progress till now -> 1 Days(30/03/2021)
      - 👂🏻 [Watched a Youtube video "How to talk about your family? - English Lesson"](https://www.youtube.com/watch?v=R49zGknt7EE&list=PL4BuO6UgthvhXljwiFJk-X5IRax4pFxki)
 </p></details>
 
+<details>
+<summary>Day 25</summary>
+<p>
+
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Brilliant.org/d25b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d25chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d25chs2.png))
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d25chs3.png)
+  - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d25chs4.png)
+  - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_everyday/blob/main/images/lumosity/d25lct1.jpg)
+    - 👂🏻 [Watched a Youtube video "This Is All You Need To Start A Business | Damini Mahajan | Josh Talks"](https://www.youtube.com/watch?v=I-Xj5VyxMIk)
+     - 👂🏻 [Watched a Youtube video "JACK MA'S ADVICE HOW TO START BUSINESS WITHOUT MONEY"](https://www.youtube.com/watch?v=lCylvD5rdvY)
+
 
 
 
