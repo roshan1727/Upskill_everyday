@@ -417,7 +417,21 @@ Learning progress till now -> 1 Days(30/03/2021)
     - 👂🏻 [Watched a Youtube video "Gravitas Plus: International Mother Language Day 2021"](https://www.youtube.com/watch?v=RVUuc4M5bB0)
     - 👂🏻 [Watched a Youtube video "How Zerodha became a Billion $ company without raising money from investors |Stock Market Case Study"](https://www.youtube.com/watch?v=vguLPoLiFNg)
     - 👂🏻 [Watched a Youtube video "The Genius Marketing Strategy of Marlboro Cigarettes | Case study"](https://www.youtube.com/watch?v=6-tS7-IhCbI)
+</p></details>
 
+<details>
+<summary>Day 27</summary>
+<p>
 
+- ✔️ [Solved Daily Challenge in Brilliant.org](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Brilliant.org/d27b1.png)
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d27chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d27chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d27chs3.png)
+  - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d27chs4.png)
+  - ✔️ [Completed Daily Workout Problem in lumosity](https://github.com/roshan1727/Upskill_everyday/blob/main/images/lumosity/d27lyt1.jpg)
+    - 👂🏻 [Watched a Youtube video "Three Steps to Transform Your Life | Lena Kay | TEDxNishtiman"](https://www.youtube.com/watch?v=L51h8BBu7b8)
+    - 👂🏻 [Watched a Youtube video "Speak like a leader | Simon Lancaster | TEDxVerona"](https://www.youtube.com/watch?v=bGBamfWasNQ)
+</p></details>
 
 
