@@ -462,3 +462,18 @@ Learning progress till now -> 1 Days(30/03/2021)
     - 👂🏻 [Watched a Youtube video "Gillette's Billion Dollar Business Strategy that kept it relevant for 120 years"](https://youtu.be/YRYLPeWCOP0)
 </p></details>
 
+<details>
+<summary>Day 30</summary>
+<p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d30chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d30chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d30chs3.png)\
+  - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d30chs4.png)
+  - ✔️ [Completed Daily Workout Problem in lumosity]()
+    - 👂🏻 [Watched a Youtube video "Three Steps to Transform Your Life | Lena Kay | TEDxNishtiman"](https://youtu.be/L51h8BBu7b8)
+    - 👂🏻 [Watched a Youtube video "Speak like a leader | Simon Lancaster | TEDxVerona"](https://youtu.be/bGBamfWasNQ)
+    - 👂🏻 [Watched a Youtube video "Before You Waste Time, Watch This | Jay Shetty"](https://youtu.be/UdVAx-_dc6w)
+</p></details>
+
