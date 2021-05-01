@@ -246,6 +246,7 @@ Learning progress till now -> 1 Days(30/03/2021)
      - 👂🏻 [Watched a Youtube video "The first 20 hours -- how to learn anything | Josh Kaufman | TEDxCSU"](https://www.youtube.com/watch?v=5MgBikgcWnY&t=989s)
 
 </p></details>
+
 <details>
 <summary>Day 16</summary>
 <p>
@@ -278,6 +279,7 @@ Learning progress till now -> 1 Days(30/03/2021)
     - 👂🏻 [Watched a Youtube video "The 7 Habits of Highly Effective People Summary"](https://www.youtube.com/watch?v=WFc08j9eorQ&t=687s)
     - 👂🏻 [Watched a Youtube video "The 7 Habits of Highly Effective People Summary (part 2)"](https://www.youtube.com/watch?v=5LbCRx1UbWY)
 </p></details>
+
 <details>
 <summary>Day 18</summary>
 <p>
@@ -299,6 +301,7 @@ Learning progress till now -> 1 Days(30/03/2021)
     - 👂🏻 [Watched a Youtube video "'change the way you think’ | Dr Kruti Parekh | TEDxSIUVimanNagar"](https://www.youtube.com/watch?v=GjJX0iA7VBA&t=29s)
 
 </p></details>
+
 <details>
 <summary>Day 19</summary>
 <p>
@@ -331,13 +334,14 @@ Learning progress till now -> 1 Days(30/03/2021)
     - 👂🏻 [Watched a Youtube video "PYTHON AND DATA VISUALIZATION : Day -5 (Data Visualisation )"](https://www.youtube.com/watch?v=msVkNbakpx8)
     
 </p></details>
+
 </p></details>
 
 >“It is never too late to be what you might have been.”
 ― George Eliot
 
 <details>
-<summary>Day 21 -31 ->Apr 21, 2021 - Apr 31, 2021</summary>
+<summary>Day 21 -30 ->Apr 21, 2021 - Apr 30, 2021</summary>
 <p>
 
 
@@ -476,6 +480,13 @@ Learning progress till now -> 1 Days(30/03/2021)
     - 👂🏻 [Watched a Youtube video "Speak like a leader | Simon Lancaster | TEDxVerona"](https://youtu.be/bGBamfWasNQ)
     - 👂🏻 [Watched a Youtube video "Before You Waste Time, Watch This | Jay Shetty"](https://youtu.be/UdVAx-_dc6w)
 </p></details>
+</p></details>
+
+>I can’t change the direction of the wind, but I can adjust my sails to always reach my destination. -- Jimmy Dean
+
+<details>
+<summary>Day 31 -40 >May 1, 2021 - May 10, 2021</summary>
+<p>
 
 <details>
 <summary>Day 31</summary>
@@ -489,4 +500,20 @@ Learning progress till now -> 1 Days(30/03/2021)
     - 👂🏻 [Watched a Youtube video "How To Come Up With Good Ideas | Mark Rober | TEDxYouth@ColumbiaSC"](https://youtu.be/L1kbrlZRDvU)
     - 👂🏻 [Watched a Youtube video "Lady in the House, her Responsibilities & Ambitions | Amrita Duhan | TEDxMansaroverPark"](https://youtu.be/FR24hPsY4QE)
     - 👂🏻 [Watched a Youtube video "Creative thinking - how to get out of the box and generate ideas: Giovanni Corazza at TEDxRoma"](https://youtu.be/bEusrD8g-dM)
+</p></details>
+
+<details>
+<summary>Day 32</summary>
+<p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d32chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d32chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d32chs3.png)
+  - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d32chs4.png)
+    - 👂🏻 [Watched a Youtube video "You matter, and Your dreams matter | Niharika NM | TEDxAmritaUBangalore"](https://youtu.be/d2E2LVJwbUU)
+    - 👂🏻 [Watched a Youtube video "Why I read a book a day (and why you should too): the law of 33% | Tai Lopez | TEDxUBIWiltz"](\https://youtu.be/7bB_fVDlvhc)
+    - 👂🏻 [Watched a Youtube video "Victory Beyond The Mountain | IAS officer | Tina Dabi | TEDxHansrajCollege"](https://youtu.be/md4wAywgDEw)
+</p></details>
+
 </p></details>
