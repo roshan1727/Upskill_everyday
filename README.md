@@ -516,4 +516,18 @@ Learning progress till now -> 1 Days(30/03/2021)
     - 👂🏻 [Watched a Youtube video "Victory Beyond The Mountain | IAS officer | Tina Dabi | TEDxHansrajCollege"](https://youtu.be/md4wAywgDEw)
 </p></details>
 
+<details>
+<summary>Day 33</summary>
+<p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d33chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d33chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d33chs3.png)
+  - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d33chs4.png)
+    - 👂🏻 [Watched a Youtube video "The most important lesson from 83,000 brain scans | Daniel Amen | TEDxOrangeCoast"](https://youtu.be/esPRsT-lmw8)
+    - 👂🏻 [Watched a Youtube video "Mindset is Everything | Cole Bennett | TEDxUIUC"](https://youtu.be/X_9cyPIvdyo)
+    - 👂🏻 [Watched a Youtube video "Everybody can achieve Financial Freedom | Sharique Samsudheen | TEDxCUSAT"](https://youtu.be/XJ911sJqsN0)
+</p></details>
+
 </p></details>
