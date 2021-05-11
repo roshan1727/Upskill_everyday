@@ -571,4 +571,23 @@ Learning progress till now -> 1 Days(30/03/2021)
     - 👂🏻 [Watched a Youtube video "5 steps to designing the life you want | Bill Burnett | TEDxStanford"](https://youtu.be/SemHh0n19LA)
     - 👂🏻 [Watched a Youtube video "Learn The Art Of Building A Business From This Chaiwala | Robin Jha | The TPot Story | Josh Talk"](https://youtu.be/THTVK82AP9Q)
 </p></details>
+
+<details>
+<summary>Day 37</summary>
+<p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d37chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d37chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d37chs3.png)
+  - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d37chs4.png)
+    - 👂🏻 [Watched a Youtube video "Introduction to HTML, CSS, JavaScript & How websites work? | Web Development Tutorials #1"](https://youtu.be/6mbwJ2xhgzM)
+    - 👂🏻 [Watched a Youtube video "HTML Tutorial: Installing VS Code & Live Server | Web Development Tutorials #2"](https://youtu.be/TeZdo8mx0gc)
+    - 👂🏻 [Watched a Youtube video "HTML Tutorial: Basic Structure of a Website | Web Development Tutorials #3"](https://youtu.be/IA8JWGP13dI)
+    - 👂🏻 [Watched a Youtube video "HTML Tutorial: Title, Script, Link & Meta Tags | Web Development Tutorials #4"](https://youtu.be/EZCc_4abdcE)
+    - 👂🏻 [Watched a Youtube video "HTML Tutorial: Headings & Paragraphs | Web Development Tutorials #5"](https://youtu.be/ulv_q6-b7uI)
+    - 👂🏻 [Watched a Youtube video "HTML Tutorial: Lists and Tables | Web Development Tutorials #7"](https://youtu.be/N69xumSjg5Q)
+    - 👂🏻 [Watched a Youtube video"HTML Tutorial: Img and Anchor tags | Web Development Tutorials #6"](https://youtu.be/z6H22xGAZEA)
+    - 👂🏻 [Watched a Youtube video "HTML Tutorial: Forms & Input Tags | Web Development Tutorials #8"](https://youtu.be/KqJikDzb3l4)
+</p></details>
 </p></details>
