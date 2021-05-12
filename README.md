@@ -590,4 +590,17 @@ Learning progress till now -> 1 Days(30/03/2021)
     - 👂🏻 [Watched a Youtube video"HTML Tutorial: Img and Anchor tags | Web Development Tutorials #6"](https://youtu.be/z6H22xGAZEA)
     - 👂🏻 [Watched a Youtube video "HTML Tutorial: Forms & Input Tags | Web Development Tutorials #8"](https://youtu.be/KqJikDzb3l4)
 </p></details>
+<details>
+<summary>Day 38</summary>
+<p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d38chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d38chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d38chs3.png)
+  - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d38chs4.png)
+    - 👂🏻 [Exploring a new Technology in Udacity"Intro to Cloud Computing Free Course"](https://classroom.udacity.com/courses/ud080)
+    - 👂🏻 [Watched a Youtube video "HTML Tutorial: Inline & Block Elements | Web Development Tutorials #9"](https://youtu.be/DFT9qxVCF6k)
+    - 👂🏻 [Watched a Youtube video "HTML Tutorial: Ids & Classes in HTML | Web Development Tutorials #10"](https://youtu.be/BucLTOfLQsk)
+</p></details>
 </p></details>
