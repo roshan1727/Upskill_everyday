@@ -651,6 +651,35 @@ Learning progress till now -> 1 Days(30/03/2021)
   - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d41chs3.png)
   - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d41chs4.png)
   </p></details>
+<details>
+  <summary>Day 42</summary>
+  <p>
+  - ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d42chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d42chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d42chs3.png)
+  - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d42chs4.png)
+       - 👂🏻 [Watched a Youtube video"CSS Tutorial: Fonts In CSS | Web Development Tutorials #17"](https://youtu.be/5Gz7j4gDrXM)
+    - 👂🏻 [Watched a Youtube video "CSS Tutorial: Colors In CSS | Web Development Tutorials #18"](https://youtu.be/EEw5OJCsiDs)
+    - 👂🏻 [Watched a Youtube video "CSS Tutorial: Borders and Backgrounds | Web Development Tutorials #19"](https://youtu.be/2zcHiaHo4Jo)
+    - 👂🏻 [Watched a Youtube video"CSS Tutorial: CSS Box Model, Margin and Padding | Web Development Tutorials #20"](https://youtu.be/5koxb4JaDqc)
+    - 👂🏻 [Watched a Youtube video "CSS Tutorial: Float & Clear Explained | Web Development Tutorials #21"](https://youtu.be/6G42rXal5-g)
+    - 👂🏻 [Watched a Youtube video "CSS Tutorial: Styling Links & Buttons | Web Development Tutorials #22"](https://youtu.be/3lAl7RNqp1c)
+  </p></details>
 
+<details>
+<summary>Day 43</summary>
+<p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d43chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d43chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d43chs3.png)
+  - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d43chs4.png)
+      - 👂🏻 [Watched a Youtube video "CSS Tutorial: Creating a Navigation Menu | Web Development Tutorials #23"](https://youtu.be/OsPOBsclJLU)
+    - 👂🏻 [Watched a Youtube video "CSS Tutorial: CSS Display Property | Web Development Tutorials #24"](https://youtu.be/YJtlXrzXXFk)
+    - 👂🏻 [Watched a Youtube video "CSS Tutorial: Position absolute, relative, fixed and sticky in CSS | Web Development Tutorials #25"](https://youtu.be/MwGHiVl-gqk)
+    - 👂🏻 [Watched a Youtube video "Project 1: Creating a Gym Website Using HTML5 & CSS3 | Web Development Tutorials #26"](https://youtu.be/Sj5NX_br5WY)
+  </p></details>
 
 </p></details>
