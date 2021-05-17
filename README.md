@@ -634,8 +634,14 @@ Learning progress till now -> 1 Days(30/03/2021)
   - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d40chs3.png)
   - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d40chs4.png)
   </p></details>
-  
+
 </p></details>
+
+>“The Best Way To Get Started Is To Quit Talking And Begin Doing.” – Walt Disney
+<details>
+<summary>Day 41 -50 >May 15, 2021 - May 25, 2021</summary>
+<p>
+<details>
 <summary>Day 41</summary>
 <p>
 
@@ -645,3 +651,6 @@ Learning progress till now -> 1 Days(30/03/2021)
   - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d41chs3.png)
   - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d41chs4.png)
   </p></details>
+
+
+</p></details>
