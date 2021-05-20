@@ -694,4 +694,20 @@ Learning progress till now -> 1 Days(30/03/2021)
       - 👂🏻 [Watched a Youtube video "Google Keynote (Google I/O ‘21) - American Sign Language"](https://youtu.be/Mlk888FiI8A)
     - 👂🏻 [Watched a Youtube video "20 Open Source Programs & Paid Virtual Internships You Can Apply to!! (with Tips) 💯"](https://youtu.be/dDE3tOa4JUs)
   </p></details>
+
+  <details>
+<summary>Day 44</summary>
+<p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d45chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d45chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d45chs3.png)
+  - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d45chs4.png)
+  -[Solved one problem in InterviewBit](https://www.interviewbit.com/courses/fast-track-python/topics/basics-of-python/)
+  - 👂🏻 [Watched a Youtube video "The Economy Of SWITZERLAND, Unraveling Swiss Economy"](https://youtu.be/De6rFH8oKsI)
+  - 👂🏻 [Watched a Youtube video "The Amazing Paradise Flying Snake | Wildest Islands Of Indonesia"]()https://youtu.be/16aGSx9gFO4
+   - 👂🏻 [Watched a Youtube video "Gravitas: Wuhan virus is now infecting children"](https://youtu.be/PhieVNS4nhs))
+  - 👂🏻 [Watched a Youtube video "Eco-friendly masks that grow into plants upon disposal"](https://youtu.be/gjnhJfxc20A)
+  </p></details>
 </p></details>
