@@ -683,7 +683,7 @@ Learning progress till now -> 1 Days(30/03/2021)
   </p></details>
 
 <details>
-<summary>Day 43</summary>
+<summary>Day 44</summary>
 <p>
 
 - ✔️ Chess.com 
@@ -695,13 +695,13 @@ Learning progress till now -> 1 Days(30/03/2021)
     - 👂🏻 [Watched a Youtube video "20 Open Source Programs & Paid Virtual Internships You Can Apply to!! (with Tips) 💯"](https://youtu.be/dDE3tOa4JUs)
   </p></details>
 
-  <details>
-<summary>Day 44</summary>
+ <details>
+<summary>Day 45</summary>
 <p>
 
 - ✔️ Chess.com 
   - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d45chs1.png)
-  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d45chs2.png)
+  - ✔️ [Played Puzzle Rush](https://github.co m/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d45chs2.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d45chs3.png)
   - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d45chs4.png)
   -[Solved one problem in InterviewBit](https://www.interviewbit.com/courses/fast-track-python/topics/basics-of-python/)
@@ -709,5 +709,22 @@ Learning progress till now -> 1 Days(30/03/2021)
   - 👂🏻 [Watched a Youtube video "The Amazing Paradise Flying Snake | Wildest Islands Of Indonesia"]()https://youtu.be/16aGSx9gFO4
    - 👂🏻 [Watched a Youtube video "Gravitas: Wuhan virus is now infecting children"](https://youtu.be/PhieVNS4nhs))
   - 👂🏻 [Watched a Youtube video "Eco-friendly masks that grow into plants upon disposal"](https://youtu.be/gjnhJfxc20A)
+  </p></details>
+
+  <details>
+<summary>Day 46</summary>
+<p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d46chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d46chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d46chs3.png)
+  - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d46chs4.png)
+  -🪜Solved one problem in InterviewBit
+  -🪜[Solved one problem in Techgig](https://www.techgig.com/practice/result/day-1/dkdQU3VZRWtCcnlTcTdnQTNWaG5pZz09)
+  - 👂🏻 [Watched a Youtube video "How to motivate yourself to change your behavior | Tali Sharot | TEDxCambridge"](https://youtu.be/xp0O2vi8DX4)
+  - 👂🏻 [Watched a Youtube video "CSS Tutorial: em, rem, vh and vw units + Responsive design Explained | Web Development Tutorials #29"](https://youtu.be/DVjrb52C5Gs)
+   - 👂🏻 [Watched a Youtube video "Project Starline: Feel like you're there, together"](https://youtu.be/Q13CishCKXY)
+  - 👂🏻 [Watched a Youtube video "10 Student Programs You Can Apply to Right Now (with Tips & Real Talk) 🙌"](https://youtu.be/i5oP95218IQ)
   </p></details>
 </p></details>
