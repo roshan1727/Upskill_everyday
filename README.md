@@ -711,7 +711,7 @@ Learning progress till now -> 1 Days(30/03/2021)
   - 👂🏻 [Watched a Youtube video "Eco-friendly masks that grow into plants upon disposal"](https://youtu.be/gjnhJfxc20A)
   </p></details>
 
-  <details>
+<details>
 <summary>Day 46</summary>
 <p>
 
@@ -726,5 +726,21 @@ Learning progress till now -> 1 Days(30/03/2021)
   - 👂🏻 [Watched a Youtube video "CSS Tutorial: em, rem, vh and vw units + Responsive design Explained | Web Development Tutorials #29"](https://youtu.be/DVjrb52C5Gs)
    - 👂🏻 [Watched a Youtube video "Project Starline: Feel like you're there, together"](https://youtu.be/Q13CishCKXY)
   - 👂🏻 [Watched a Youtube video "10 Student Programs You Can Apply to Right Now (with Tips & Real Talk) 🙌"](https://youtu.be/i5oP95218IQ)
+  </p></details>
+
+<details>
+<summary>Day 47</summary>
+<p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d47chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d47chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d47chs3.png)
+  - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d47chs4.png)
+  -🪜Solved 4 problem in InterviewBit
+  -🪜[Solved one problem in Techgig Day 2](https://www.techgig.com/practice/result/day-2/WVEwVlYyMWRDUk9QT3pRYUtwbVZiZz09)
+  - 👂🏻 [Watched a Youtube video "Gravitas: Japan bullet train runs late after driver's toilet break"](https://youtu.be/gmnj4yIvQXw)
+  - 👂🏻 [Watched a Youtube video "The Future of Solid State Wind Energy - No More Blades"](https://youtu.be/nNp21zTeCDc)
+  - 👂🏻 [Watched a Youtube video "How an Innovative Marketing Campaign (money spent=0) is saving Japan from an economic crisis?"](https://youtu.be/ztr7weugMR8)
   </p></details>
 </p></details>
