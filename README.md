@@ -737,8 +737,8 @@ Learning progress till now -> 1 Days(30/03/2021)
   - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d47chs2.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d47chs3.png)
   - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d47chs4.png)
-  -🪜Solved 4 problem in InterviewBit
-  -🪜[Solved one problem in Techgig Day 2](https://www.techgig.com/practice/result/day-2/WVEwVlYyMWRDUk9QT3pRYUtwbVZiZz09)
+  -Solved 4 problem in InterviewBit
+  -[Solved one problem in Techgig Day 2](https://www.techgig.com/practice/result/day-2/WVEwVlYyMWRDUk9QT3pRYUtwbVZiZz09)
   - 👂🏻 [Watched a Youtube video "Gravitas: Japan bullet train runs late after driver's toilet break"](https://youtu.be/gmnj4yIvQXw)
   - 👂🏻 [Watched a Youtube video "The Future of Solid State Wind Energy - No More Blades"](https://youtu.be/nNp21zTeCDc)
   - 👂🏻 [Watched a Youtube video "How an Innovative Marketing Campaign (money spent=0) is saving Japan from an economic crisis?"](https://youtu.be/ztr7weugMR8)
@@ -753,11 +753,26 @@ Learning progress till now -> 1 Days(30/03/2021)
   - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d48chs2.png)
   - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d48chs3.png)
   - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d48chs4.png)
-  -🪜[Solved one problem in Techgig Day 3](https://www.techgig.com/practice/result/day-3/d1Z0aERTa1dBNHdEcnM3MVJ3VmpHQT09)
+  -[Solved one problem in Techgig Day 3](https://www.techgig.com/practice/result/day-3/d1Z0aERTa1dBNHdEcnM3MVJ3VmpHQT09)
   - 👂🏻 [Watched a Youtube video "Talking Tech and AI with Google CEO Sundar Pichai!"](https://youtu.be/n2RNcPRtAiY)
   - 👂🏻 [Watched a Youtube video "Gravitas: Angela Merkel says Europe "Allowed India" to become a pharma hub"](https://youtu.be/yOVfsbXBi40)
   - 👂🏻 [Watched a Youtube video "The Hyperloop May Disrupt More Than Just Travel"](https://youtu.be/QScaLhDVacg)
   - 👂🏻 [Watched a Youtube video "How Singapore Uses Science to Stay Cool"](https://youtu.be/PM101DvvG4Q)
   </p></details>
 
+<details>
+<summary>Day 49</summary>
+<p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d49chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d49chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d49chs3.png)
+  - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d49chs4.png)
+  - [Solved one problem in Techgig Day 4](https://www.techgig.com/practice/result/day-4/Z3lMeXdmcFNjR3ZyYzNXWUc2TDIyZz09)
+  - 👂🏻 [Watched a Youtube video "Inside Dubai’s $22 Billion Dollar Hyperloo"](https://youtu.be/m1OfFHL7EIM)
+  - 👂🏻 [Watched a Youtube video ""]()
+  - 👂🏻 [Watched a Youtube video ""]()
+  - 👂🏻 [Watched a Youtube video ""]()
+  </p></details>
 </p></details>
