@@ -775,4 +775,20 @@ Learning progress till now -> 1 Days(30/03/2021)
   - 👂🏻 [Watched a Youtube video "How to Get Your Brain to Focus | Chris Bailey | TEDxManchester"](https://youtu.be/Hu4Yvq-g7_Y)
   - 👂🏻 [Watched a Youtube video "How To Eliminate Self Doubt Forever & The Power of Your Unconscious Mind | Peter Sage | TEDxPatras"](https://youtu.be/v1ojZKWfShQ)
   </p></details>
+
+<details>
+<summary>Day 50</summary>
+<p>
+
+- ✔️ Chess.com 
+  - ✔️ [Solved Some Puzzles](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d50chs1.png)
+  - ✔️ [Played Puzzle Rush](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d50chs2.png)
+  - ✔️ [Solved Daily Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d50chs3.png)
+  - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d50chs4.png)
+  - [Solved one problem in Techgig Day 5](https://www.techgig.com/practice/result/day-5/QW80ZzJuSmN4VGxJUDZ3V0RaM3JSUT09)
+  - 👂🏻 [Watched a Youtube video "15 days of CODE!!"](https://youtu.be/o2vYBbYJ8as)
+  - 👂🏻 [Watched a Youtube video "Introducing Google Wind"](https://youtu.be/QAwL0O5nXe0)
+  - 👂🏻 [Watched a Youtube video "How Tokyo's Subway Keeps On-time, Clean, and Safe"](https://youtu.be/ZT6H_XMDm7s)
+  - 👂🏻 [Watched a Youtube video "Gravitas: China's seeds of terror reach more countries"](https://youtu.be/rvwBusTGHy0)
+  </p></details>
 </p></details>
