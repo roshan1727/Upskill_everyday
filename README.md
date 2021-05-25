@@ -771,8 +771,8 @@ Learning progress till now -> 1 Days(30/03/2021)
   - ✔️[Solved Random Puzzle](https://github.com/roshan1727/Upskill_everyday/blob/main/images/Chess.com/d49chs4.png)
   - [Solved one problem in Techgig Day 4](https://www.techgig.com/practice/result/day-4/Z3lMeXdmcFNjR3ZyYzNXWUc2TDIyZz09)
   - 👂🏻 [Watched a Youtube video "Inside Dubai’s $22 Billion Dollar Hyperloo"](https://youtu.be/m1OfFHL7EIM)
-  - 👂🏻 [Watched a Youtube video ""]()
-  - 👂🏻 [Watched a Youtube video ""]()
-  - 👂🏻 [Watched a Youtube video ""]()
+  - 👂🏻 [Watched a Youtube video "7 Tips to Improve Programming Logic | How to Build Programming Logic"](https://youtu.be/UwbVGiTzN_8)
+  - 👂🏻 [Watched a Youtube video "How to Get Your Brain to Focus | Chris Bailey | TEDxManchester"](https://youtu.be/Hu4Yvq-g7_Y)
+  - 👂🏻 [Watched a Youtube video "How To Eliminate Self Doubt Forever & The Power of Your Unconscious Mind | Peter Sage | TEDxPatras"](https://youtu.be/v1ojZKWfShQ)
   </p></details>
 </p></details>
